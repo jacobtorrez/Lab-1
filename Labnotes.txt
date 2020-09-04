@@ -1,0 +1,9 @@
+Push- Push is when you are sending a information
+
+Pull- happens when you are recieving information
+
+Fork- Copies a repository and gives you the ability to edit it without disturbing the original
+
+Commit- saves a version (change) of your work to be able to recall later
+
+Clone- is when you save your repository to your computer instead of the Github server.
